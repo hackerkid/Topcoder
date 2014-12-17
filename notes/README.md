@@ -1,0 +1,1 @@
+If the sum of N numbers is S then the maximum product obtained is (S/N)^N. This is derived from thw fact that the value of product is maximum when the numbers are same.
